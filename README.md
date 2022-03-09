@@ -14,7 +14,7 @@
 **- 😄 Pronouns: ...
 **- ⚡ Fun fact: ...
 
-### Hi there 👋 
+**### Hi there 👋 
 
 ## I'm a Full Stack Developer from Puerto Madryn - Argentina
 - 🔭 I’m currently working on a new App with my team !
